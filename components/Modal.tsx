@@ -65,7 +65,6 @@ const Modal: React.FC<ModalProps> = ({
             lg:w-3/6
             my-6
             mx-auto
-            lg:max-w-3xl
             h-full
             lg:h-auto
           "
